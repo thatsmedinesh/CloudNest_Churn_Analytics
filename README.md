@@ -30,7 +30,6 @@ CSVs → PostgreSQL (schema + analysis) → Power BI (dashboard)
 |------|---------|
 |  PostgreSQL  | Relational schema (5 tables, PKs/FKs) + 18 analytical queries + 2 views 
 |  Power BI Desktop  | 7-page dashboard — star schema, 20+ DAX measures, field parameters, cohort matrix |
-|  PowerPoint (self-generated)  | Custom dark-mode background design for all 7 pages |
 
 ---
 
