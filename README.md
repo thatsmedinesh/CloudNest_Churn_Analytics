@@ -159,10 +159,10 @@ CSVs → PostgreSQL (schema + analysis) → Power BI (dashboard)
 - Reusable views: `vw_kpi_summary`, `vw_churn_by_segment`
 - Window functions: `DENSE_RANK` (top customers by LTV) + running revenue total
 
- Sample query outputs  (all 8 in `sql/screenshots/`):
+ Sample query outputs  (all 8 in `sql/screenshot/`):
 
-![KPI Master Query](sql/screenshot/CN_SQL_01.png)
-![Cohort Retention Query](sql/screenshot/CN_SQL_04.png)
+![KPI Master Query](sql/Screenshot/CN_SQL_01.png)
+![Cohort Retention Query](sql/Screenshot/CN_SQL_04.png)
 
 ---
 
