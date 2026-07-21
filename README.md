@@ -2,7 +2,6 @@
 
 ![Landing Page](Screenshots/CN1.png)
 
->  Self-Made Project   
 > A full-pipeline analytics project CSV → PostgreSQL → Power BI  — analyzing subscriptions and churn for a B2B SaaS company. Covers 3,000 customers, 18 months of data, $2.66M total revenue, and a 7-page interactive dark-mode dashboard.
 
 ---
