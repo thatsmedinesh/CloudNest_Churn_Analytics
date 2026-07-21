@@ -161,8 +161,8 @@ CSVs → PostgreSQL (schema + analysis) → Power BI (dashboard)
 
  Sample query outputs  (all 8 in `sql/screenshots/`):
 
-![KPI Master Query](sql/screenshots/CN_SQL_01.png)
-![Cohort Retention Query](sql/screenshots/CN_SQL_04.png)
+![KPI Master Query](sql/screenshot/CN_SQL_01.png)
+![Cohort Retention Query](sql/screenshot/CN_SQL_04.png)
 
 ---
 
