@@ -221,4 +221,4 @@ Transparency note:  the dataset is synthetic — designed and generated with Pyt
  Dines Kundnani 
 Data Analyst | SQL · Power BI · Excel · Python
 
-[![LinkedIn](https://www.linkedin.com/in/dineshkundnani)
+![LinkedIn](https://www.linkedin.com/in/dineshkundnani)
